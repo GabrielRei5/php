@@ -1,0 +1,103 @@
+body
+{
+    
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 15px;
+}
+
+/* Menu styles */
+
+.menu button
+{
+    border: none;
+    width: 85px;
+    height: 23px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.menu form
+{
+    display: inline-table;
+    margin-top: 7px;
+}
+
+.menu titulo
+{
+    font-size: 18px;
+}
+
+redbold
+{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+.menu
+{
+    height: 30px;
+    background-color: #FFDEAD;
+}
+.fixed
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+}
+.Incluir
+{
+    background-color: #00FFD9;
+}
+.Alterar
+{
+    background-color: #F39D60;
+}
+.Excluir
+{
+    background-color: #FD6161;
+}
+.Consultar
+{
+    background-color: #50C4B7;
+}
+.Listar
+{
+    background-color: #E5A678;
+}
+.Abertura
+{
+    background-color: #FFDEAD;
+}
+/* ---------------------------------- */
+form
+{
+    margin-top: 15px;
+}
+table
+{
+    margin-top: 15px;
+}
+p
+{
+    margin-top: 15px;
+}
+
+
+hr
+{
+    height: 1;
+    border: 0;
+    background-color: black;
+}
+
+/* ------------------------------------ */
+
+/* button */
+
+.imp
+{
+    background: none;
+    border: none;
+    font-size: 16;
+}
